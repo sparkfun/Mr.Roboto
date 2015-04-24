@@ -26,6 +26,13 @@ License Information
 
 All contents of this repository are released under [Creative Commons Share-alike 3.0](http://creativecommons.org/licenses/by-sa/3.0/).
 
+Build Instructions
+------------------
+
+$git subtree add -P <DIRECTORY NAME> --squash <git repo URL> <ref>
+
+$git subtree pull -P <DIRECTORY NAME> --squash <git repo URL> <ref>
+
 Author
 ------
 
